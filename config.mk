@@ -162,8 +162,7 @@ PRODUCT_PACKAGES += \
     ImmersiveNavigationOverlay
 
 PRODUCT_PACKAGES += \
-    SwitchSmile \
-    NOSAtmosphereEffect
+    SwitchSmile
 
 ifeq ($(TARGET_CUSTOM_UDFPS),true)
     PRODUCT_PACKAGES += \
